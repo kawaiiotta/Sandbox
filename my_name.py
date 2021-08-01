@@ -1,4 +1,4 @@
 """
 Oscar Jannes Kerscher
-aka Kawaiiotta
+aka Kawaiiotta / otta
 """
